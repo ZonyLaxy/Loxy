@@ -1,0 +1,12 @@
+C:\Users\Edcarlos\Downloads\Blitzcrank\bin\Release\EloBuddy.dll
+C:\Users\Edcarlos\Downloads\Blitzcrank\bin\Release\EloBuddy.SDK.dll
+C:\Users\Edcarlos\Downloads\Blitzcrank\bin\Release\SharpDX.dll
+C:\Users\Edcarlos\Downloads\Blitzcrank\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Edcarlos\Downloads\Blitzcrank\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Edcarlos\Downloads\Blitzcrank\bin\Release\Newtonsoft.Json.dll
+C:\Users\Edcarlos\Downloads\Blitzcrank\obj\Release\Blitzcrank.csprojResolveAssemblyReference.cache
+C:\Users\Edcarlos\Downloads\Blitzcrank\bin\Release\BlitzLoxy.exe.config
+C:\Users\Edcarlos\Downloads\Blitzcrank\bin\Release\BlitzLoxy.exe
+C:\Users\Edcarlos\Downloads\Blitzcrank\bin\Release\BlitzLoxy.pdb
+C:\Users\Edcarlos\Downloads\Blitzcrank\obj\Release\BlitzLoxy.exe
+C:\Users\Edcarlos\Downloads\Blitzcrank\obj\Release\BlitzLoxy.pdb
