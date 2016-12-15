@@ -1,0 +1,9 @@
+C:\Users\Edcarlos\Desktop\Ryze-master\bin\Release\RyzeClear.exe.config
+C:\Users\Edcarlos\Desktop\Ryze-master\bin\Release\RyzeClear.exe
+C:\Users\Edcarlos\Desktop\Ryze-master\bin\Release\EloBuddy.dll
+C:\Users\Edcarlos\Desktop\Ryze-master\bin\Release\EloBuddy.SDK.dll
+C:\Users\Edcarlos\Desktop\Ryze-master\bin\Release\SharpDX.dll
+C:\Users\Edcarlos\Desktop\Ryze-master\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Edcarlos\Desktop\Ryze-master\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Edcarlos\Desktop\Ryze-master\bin\Release\Newtonsoft.Json.dll
+C:\Users\Edcarlos\Desktop\Ryze-master\obj\Release\RyzeClear.exe
