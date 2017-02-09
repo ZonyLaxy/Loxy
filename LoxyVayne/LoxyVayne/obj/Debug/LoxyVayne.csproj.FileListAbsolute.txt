@@ -1,0 +1,12 @@
+c:\users\edcarlos\documents\visual studio 2013\Projects\LoxyVayne\LoxyVayne\bin\Debug\LoxyVayne.exe.config
+c:\users\edcarlos\documents\visual studio 2013\Projects\LoxyVayne\LoxyVayne\obj\Debug\LoxyVayne.csprojResolveAssemblyReference.cache
+c:\users\edcarlos\documents\visual studio 2013\Projects\LoxyVayne\LoxyVayne\bin\Debug\LoxyVayne.exe
+c:\users\edcarlos\documents\visual studio 2013\Projects\LoxyVayne\LoxyVayne\bin\Debug\LoxyVayne.pdb
+c:\users\edcarlos\documents\visual studio 2013\Projects\LoxyVayne\LoxyVayne\bin\Debug\EloBuddy.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\LoxyVayne\LoxyVayne\bin\Debug\EloBuddy.SDK.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\LoxyVayne\LoxyVayne\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\LoxyVayne\LoxyVayne\bin\Debug\SharpDX.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\LoxyVayne\LoxyVayne\bin\Debug\EloBuddy.Sandbox.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\LoxyVayne\LoxyVayne\bin\Debug\Newtonsoft.Json.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\LoxyVayne\LoxyVayne\obj\Debug\LoxyVayne.exe
+c:\users\edcarlos\documents\visual studio 2013\Projects\LoxyVayne\LoxyVayne\obj\Debug\LoxyVayne.pdb
